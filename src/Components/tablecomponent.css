@@ -1,0 +1,73 @@
+body {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+
+}
+
+
+table {
+          width: 1093px;
+          height: 300px;
+          border-collapse: collapse;
+          margin: 40px 40px 40px 40px;
+}
+
+th {
+          width: 175px;
+          font-size: 18px;
+          height: 40px;
+          gap: 10px;
+          text-align: start;
+          padding: 8px 10px 8px 10px;
+          border-bottom: 2px solid #E1E1E1;
+          border: 2px solid #E1E1E1;
+          text-transform: capitalize;
+          font-weight: 600;
+          color: #383838;;
+}
+
+td {
+          width: 175px;
+          height: 40px;
+          font-size: 18px;
+          text-align: start;
+          padding: 8px 10px 8px 10px;
+          border: 2px solid #E1E1E1;
+          font-weight: 400;
+          color: #383838;
+          
+}
+
+tbody {
+          border: 2px solid #E1E1E1;
+}
+
+.avtarimg {
+          width: 28px;
+          height: 26px;
+          border-radius: 40px;
+          margin-right: 10px;
+   
+          
+}
+
+.swapimg {
+          width: 22px;
+          height: 15.38px;
+          margin-left: 5px;
+          padding-top: 6px;
+}
+
+tbody tr:nth-child(odd) {
+          background: #F5F5F5;
+
+}
+
+.emailclass {
+          color: #0071CC;
+
+}
+h1{
+   text-align: center;
+}

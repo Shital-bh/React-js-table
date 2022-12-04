@@ -1,0 +1,21 @@
+
+[
+
+{
+"ColName" : "email",
+
+"sortvisible" : false
+},
+{
+"ColName" : "joiningDate",
+
+"sortvisible" : true
+},
+{
+"ColName" : "role",
+
+"sortvisible" : true
+}
+
+
+]
